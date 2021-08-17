@@ -2,7 +2,7 @@
 
 This repository contains course material (lectures, labs, and assignments) for the 2021 fall edition of the course (previous editions: [2020](https://github.com/kbalog/uis-dat640-fall2020) and [2019](https://github.com/kbalog/uis-dat640-fall2019)).
 
-Announcements and assignment deliveries are on Canvas.
+Announcements and assignment deliveries are on [Canvas](https://stavanger.instructure.com/courses/8838).
 
 ## Course format
 
@@ -39,7 +39,7 @@ The overall grade comes from two components, both of which need to be >F in orde
 
 ## Contact, feedback, and getting help
 
-  * For all course-related matters, Canvas is the main communication platform. You can either use the mail option or even better, comment on the announcement so that other students can also see it.
+  * For all course-related matters, [Canvas](https://stavanger.instructure.com/courses/8838) is the main communication platform. You can either use the mail option or even better, comment on the announcement so that other students can also see it.
   * We welcome feedback on all levels! You may use the forms on Canvas to leave feedback on lectures, exercises, and assignments.
   * Thursday labs are for working on the assignments. This is *the* time to get help! It's much easier face-to-face than over email.
   * If you need to talk to the lecturer, make an appointment via email. Due to a busy schedule, if you drop in unannounced, you should expect to be turned away. 
