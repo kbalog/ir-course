@@ -19,12 +19,15 @@ Additionally, you need to install the `ipython-ipytest` package (it adds magic c
 
 You may use git to get the exercise files or download them from the GitHub website directly.
 
-When using git, the repository is supposed to be used in read-only mode, that is, you only pull changes and make changes locally without commiting them.
-Specific steps:
+When using git, the repository is supposed to be used in read-only mode, that is, you only pull changes and make changes locally without committing them.
 
-  * **First time**: Clone the repository `https://github.com/kbalog/ir-course` to your computer.
+### Specific steps
+
+  * **First time (if using git)**: Clone the repository `https://github.com/kbalog/ir-course` to your computer.
     - Note: unless you're a git guru and you know what you're doing, simply clone it and don't fork it. 
-  * **At the beginning of each class session**: Pull changes from the repository (to get the `exercises/E{n}` folder).
-  * Open the respective exercises using Jupyter notebook
-    - Easiest is to navigate to the `[GIT_REPO_ROOT]/exercises` folder and issue `jupyter notebook` in a terminal/command line window.
-  * Complete the exercises by making the tests pass. Do NOT commit/push changes, as you won't be able to submit them.
+  * **At the beginning of each class session**: Pull changes from the repository or download the files from the `exercises/E{n}` folder manually..
+  * **Complete the exercises in the Jupyter notebook(s)**
+    - Easiest is to navigate to the `[YOUR_LOCAL_FOLDER]/exercises` folder and issue `jupyter notebook` in a terminal/command line window. (`YOUR_LOCAL_FOLDER` either refers to the folder where you cloned the git repo or where you saved the files manually.)
+    - Complete the exercises by making the tests pass. 
+    - Do *NOT* commit/push changes, as you won't be able to submit them.
+  * **Study the reference solutions** (posted [here](solutions/)) after the class session.
