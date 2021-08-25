@@ -13,8 +13,8 @@ The semester is divided into two periods, with lectures and individual assignmen
 ### Lecture period
 
   * **Tuesdays (14:15-16:00) Digital lectures:** This is a slot for individual studying (watching the videos and reading the textbook/articles). There is no physical lecturing, so you may take this at your own chosen time, as long as it happens before the classroom session on Wednesday.
-  * **Wednesdays (14:15-16:00) Classroom (Discussion & Exercises):** Discussion session and exercise time, led by the lecturer (KB). Physical attendance is expected. [Further information](exercises/).
-  * **Thursdays (12:15-14:00) Classroom (Individual assignments):** Dedicated time to work on individual (graded) assigments, led by the TA (IK). Physical attendance is expected.
+  * **Wednesdays (14:15-16:00) Classroom (Discussion & Exercises):** Discussion session and exercise time, led by the lecturer (KB). Physical attendance is expected (but live streaming is provided). [Further information](exercises/).
+  * **Thursdays (12:15-14:00) Classroom (Individual assignments):** Dedicated time to work on individual (graded) assigments, led by the TA (IK). Physical attendance is expected (but live streaming is provided).
 
 ### Group project work 
 
