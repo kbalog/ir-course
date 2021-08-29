@@ -5,7 +5,7 @@ The first lecture discusses the problem of text classification. It is assumed th
 ## Lecture videos and slides
 
 | L1-1 | Text classification | [video lecture](https://youtu.be/3LMjRlwZzSA) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification) |
-| L1-2 | Text preprocessing | [video lecture](https://youtu.be/IuBvlOuD3js) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-preprocessing)
+| L1-2 | Text preprocessing | [video lecture](https://youtu.be/IuBvlOuD3js) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-preprocessing) |
 | L1-3 | Naive Bayes classifier | [video lecture](https://youtu.be/EIXxvno9hLU) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-naive-bayes) |
 | L1-4 | Text classification evaluation | [video lecture](https://youtu.be/3LdPjTW3F6I) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-evaluation) |
 
