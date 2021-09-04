@@ -4,12 +4,12 @@ The first lecture discusses the problem of text classification. It is assumed th
 
 ## Lecture videos and slides
 
-| **Module** | **Topic** | **Lecture video** | **Slides** |
-| -- | -- | -- | -- | 
-| L1-1 | Text classification | [lecture video](https://youtu.be/3LMjRlwZzSA) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification) |
-| L1-2 | Text preprocessing | [lecture video](https://youtu.be/IuBvlOuD3js) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-preprocessing) |
-| L1-3 | Naive Bayes classifier | [lecture video](https://youtu.be/EIXxvno9hLU) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-naive-bayes) |
-| L1-4 | Text classification evaluation | [lecture video](https://youtu.be/3LdPjTW3F6I) | [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2020-text-classification-evaluation) |
+| **Module** | **Topic** | **Lecture material** |
+| -- | -- | -- | 
+| L1-1 | Text classification | [lecture video](https://youtu.be/3LMjRlwZzSA),  [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2021-text-classification) |
+| L1-2 | Text preprocessing | [lecture video](https://youtu.be/IuBvlOuD3js), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2021-text-preprocessing) |
+| L1-3 | Naive Bayes classifier | [lecture video](https://youtu.be/EIXxvno9hLU), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2021-text-classification-naive-bayes) |
+| L1-4 | Text classification evaluation | [lecture video](https://youtu.be/3LdPjTW3F6I), [slides](https://speakerdeck.com/kbalog/information-retrieval-and-text-mining-2021-text-classification-evaluation) |
 
 ## Reading
 
