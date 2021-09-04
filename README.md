@@ -31,7 +31,7 @@ This course assumes that you have some familiarity with programming in Python an
 | **Week** | **Topic** | **Lecture** | **Exercises** |
 | -- | -- | -- | -- |
 | 34 | Text classification and preprocessing | [lecture](lectures/L1) | [exercises](exercises/E1), [solutions](solutions/E1) |
-| 35 | Text clustering and similarity | | |
+| 35 | Text clustering and similarity | [lecture](lectures/L2) | [exercises](exercises/E2), [solutions](solutions/E2) |
 | 36 | Search engine architecture and basic retrieval models | | |
 | 37 | Retrieval evaluation | | |
 | 38 | Advanced retrieval models | | |
