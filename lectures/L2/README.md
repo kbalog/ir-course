@@ -14,7 +14,8 @@ This lecture covers the topics of text clustering and text similarity. Additiona
 
 ## Reading
 
-  * Zhai & Massung: Chapter 14 (except Section 14.3)
+  * Text Data Management and Analysis (Zhai & Massung)
+    - Chapter 14 (except Section 14.3)
   
 ## Summary
 

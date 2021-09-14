@@ -13,8 +13,9 @@ The first lecture discusses the problem of text classification. It is assumed th
 
 ## Reading
 
-  * Zhai & Massung: Chapter 15
-  * Zhai & Massung: Section 8.1
+  * Text Data Management and Analysis (Zhai & Massung)
+    - Chapter 15
+    - Section 8.1
 
 ## Summary
 
