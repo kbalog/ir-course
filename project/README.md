@@ -15,7 +15,7 @@ Each group will be allocated a dedicated 15mins slot (during what would normally
 
 ## Deadlines
 
-  * **October 27 (Wed) 16:00** Registering project groups. (Application form will be linked from here.) If you don't register, you'll be "randomly" assigned with other people.
+  * **October 27 (Wed) 16:00** Registration of groups by filling out [this form](https://forms.gle/DQNUr2vbNfsRPWSH7). If you don't register, you'll be "randomly" assigned with other people.
   * **Nov 12 (Fri) 12:00** Delivery of draft project report for feedback. Feedback will be given during the Tue/Wed meeting the week after.
   * **Nov 22 (Mon) 12:00** Delivery of final project report. 
 
@@ -42,7 +42,7 @@ You may choose one from the following projects:
     - Document collection: DBpedia ([dump 2016-10](https://wiki.dbpedia.org/downloads-2016-10)) and/or Wikidata
     - Resources
       - [Task GitHub repo](https://github.com/smart-task/smart-dataset)
-      - Papers: [Balog & Neumayer (2012)](https://krisztianbalog.com/files/cikm2012-querytypes.pdf), [Garigliotti et al. (2017)](https://krisztianbalog.com/files/sigir2017-qt.pdf)
+      - Papers: [Balog & Neumayer (2012)](https://krisztianbalog.com/files/cikm2012-querytypes.pdf), [Garigliotti et al. (2017)](https://krisztianbalog.com/files/sigir2017-qt.pdf), [Setty & Balog (2020)](https://krisztianbalog.com/files/iswc2020-smart.pdf)
 
 
 ## Workflow and rules
