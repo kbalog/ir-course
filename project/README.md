@@ -61,15 +61,15 @@ You may choose one from the following projects:
 
 While the following is merely a recommendation, it may help you to stay on course.
 
-  * Week 1:
-    - Understand the problem (and ideally complete the corresponding sections of the report)
+  * **Week 1**
+    - Understand the problem, identify and read related literature (and ideally complete the corresponding sections of the report)
     - Preprocess and index the document collection
     - Implement a baseline method
-  * Week 2
+  * **Week 2**
     - Run and evaluate the baseline method
     - Implement an advanced method
     - Write up your progress so far and submit the report for feedback    
-  * Week 3
+  * **Week 3**
     - Run and evaluate your advanced method
     - Experiment with additional methods or refinements of your advanced method
     - Finalize your report
@@ -96,13 +96,14 @@ Structure your paper according to the following sections:
 
   * **Problem understanding** (8 points)
     - Demonstrating your understanding of the chosen project, by clearly explaining the problem at hand and the challenges involved.
-    - Identifying the main families of approaches developed for the task at hand (a literature review).
+    - Identifying the main families of approaches developed for the task at hand (i.e., literature review).
   * **Baseline method** (10 points)
     - Selecting a sensible baseline, implementing and evaluating it using the given benchmark dataset.    
   * **Advanced method(s)** (12 points)
-    - Selecting an interesting or performant advanced method or developing it from scratch, implementing and evaluating it experimentally.
+    - Selecting an interesting or performant advanced method or developing a novel approach from scratch, implementing and evaluating it experimentally.
     - Points are awarded for convincing motivation, creativity, overall performance (improvements over the baseline).
   * **Report** (15 points)
-    - Reporting the problem, methods, and results in a clear and structured manner.
+    - Reporting the problem, methods, key decisions, and results in a clear and structured manner.
+    - The report should contain sufficient details for one to be able to reproduce the results based on the provided description. It should properly attribute and reference related work as well as use visual tools (such as illustrations, plots and tables) to support and communicate the findings effectively.
   * **Code quality** (5 points)
     - Producing clearly structured, well-documented, and readable code.
