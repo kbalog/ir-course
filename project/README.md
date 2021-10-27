@@ -30,6 +30,7 @@ You may choose one from the following projects:
       - [Task GitHub repo](https://github.com/microsoft/MSMARCO-Document-Ranking)
       - [Relevance judgments for evaluation topics](https://trec.nist.gov/data/cast/2019qrels.txt)
       - [TREC 2019 Deep Learning track overview](https://arxiv.org/abs/2003.07820)
+    - [Discussion group (on Canvas)](https://stavanger.instructure.com/courses/8838/discussion_topics/120134)
   * **[TREC 2020 Conversational Assistance](http://www.treccast.ai/)**
     - Given a series of conversational utterances, identify relevant passages for each user utterance that satisfies the user's information need.
     - Document collection: MARCO Ranking passages and Wikipedia (TREC CAR)
@@ -37,12 +38,14 @@ You may choose one from the following projects:
       - [Task GitHub repo](https://github.com/daltonj/treccastweb/tree/master/2020)
       - [TREC 2020 Conversational Assistance track overview](https://trec.nist.gov/pubs/trec29/papers/OVERVIEW.C.pdf)
       - [TREC 2020 Conversational Assistance judgments for evaluation topics](https://trec.nist.gov/data/cast2020.html)
+    - [Discussion group (on Canvas)](https://stavanger.instructure.com/courses/8838/discussion_topics/120142)
   * **[Semantic Answer Type Prediction 2020](https://smart-task.github.io/2020/)**
     - Given a question in natural language, the task is to predict type of the answer using a set of candidates from a target ontology (DBpedia).
     - Document collection: DBpedia ([dump 2016-10](https://wiki.dbpedia.org/downloads-2016-10)) and/or Wikidata
     - Resources
       - [Task GitHub repo](https://github.com/smart-task/smart-dataset)
       - Papers: [Balog & Neumayer (2012)](https://krisztianbalog.com/files/cikm2012-querytypes.pdf), [Garigliotti et al. (2017)](https://krisztianbalog.com/files/sigir2017-qt.pdf), [Setty & Balog (2020)](https://krisztianbalog.com/files/iswc2020-smart.pdf)
+    - [Discussion group (on Canvas)](https://stavanger.instructure.com/courses/8838/discussion_topics/120145)
 
 
 ## Workflow and rules
@@ -91,4 +94,15 @@ Structure your paper according to the following sections:
 
 ## Evaluation
 
-*Detailed evaluation criteria will be posted here.*
+  * **Problem understanding** (8 points)
+    - Demonstrating your understanding of the chosen project, by clearly explaining the problem at hand and the challenges involved.
+    - Identifying the main families of approaches developed for the task at hand (a literature review).
+  * **Baseline method** (10 points)
+    - Selecting a sensible baseline, implementing and evaluating it using the given benchmark dataset.    
+  * **Advanced method(s)** (12 points)
+    - Selecting an interesting or performant advanced method or developing it from scratch, implementing and evaluating it experimentally.
+    - Points are awarded for convincing motivation, creativity, overall performance (improvements over the baseline).
+  * **Report** (15 points)
+    - Reporting the problem, methods, and results in a clear and structured manner.
+  * **Code quality** (5 points)
+    - Producing clearly structured, well-documented, and readable code.
