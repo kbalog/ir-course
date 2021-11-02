@@ -9,9 +9,8 @@ Specifically, you'll first need to establish a reasonable baseline, then develop
 
 Each group will be allocated a dedicated 15mins slot (during what would normally be lecture/class hours on Tue/Wed) to discuss their progress. It is expected that at least one member of the group is present in person.
 
-| **Team** | **Slot** |
-| -- | -- |
-| Team-... | TBD |
+*Teams and weekly meeting slots are published on [Canvas](https://stavanger.instructure.com/courses/8838/pages/group-project).*
+
 
 ## Deadlines
 
@@ -41,7 +40,7 @@ You may choose one from the following projects:
     - [Discussion group (on Canvas)](https://stavanger.instructure.com/courses/8838/discussion_topics/120142)
   * **[Semantic Answer Type Prediction 2020](https://smart-task.github.io/2020/)**
     - Given a question in natural language, the task is to predict type of the answer using a set of candidates from a target ontology (DBpedia).
-    - Document collection: DBpedia ([dump 2016-10](https://wiki.dbpedia.org/downloads-2016-10)) and/or Wikidata
+    - Document collection: DBpedia ([dump 2016-10](http://downloads.dbpedia.org/2016-10/)) and/or Wikidata ([dump](https://dumps.wikimedia.org/wikidatawiki/entities/))
     - Resources
       - [Task GitHub repo](https://github.com/smart-task/smart-dataset)
       - Papers: [Balog & Neumayer (2012)](https://krisztianbalog.com/files/cikm2012-querytypes.pdf), [Garigliotti et al. (2017)](https://krisztianbalog.com/files/sigir2017-qt.pdf), [Setty & Balog (2020)](https://krisztianbalog.com/files/iswc2020-smart.pdf)
