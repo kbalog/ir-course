@@ -76,7 +76,7 @@ While the following is merely a recommendation, it may help you to stay on cours
 ## Report
 
   * Use the [ACM two-column template](https://www.acm.org/publications/proceedings-template) for the report.
-  * It is highly recommended that you use LaTeX.  The ACM template is also available on [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt).
+  * It is highly recommended that you use LaTeX.  A template made specifically for the project report is made available on [Overleaf](https://www.overleaf.com/read/sqhpmsfdpdxh).
   * **NB: Include the Team ID assigned to you in the report title or subtitle.**
 
 ### Structure
