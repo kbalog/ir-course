@@ -90,6 +90,7 @@ Structure your paper according to the following sections:
   * **Results** - With tables and graphs, make a clear, concise, and digestible presentation of the data produced by your experiments. This includes describing the key facts and trend from your results.
   * **Discussion and Conclusions** - Summarize and discuss different challenges you faced and how you solved those. Include interpretations of the key facts and trends you observed and pointed out in the Results section. Which method performed best, and why? Speculate: What could you have done differently, and what consequences would that have had?
 
+You also need to attach a section on **Division of Work During the Project** as an appendix, with a short paragraph describing the contributions of each student in the project, and a statement on how you split the task and the workload between team members. This section does not count towards the 4-page limit.
 
 ## Evaluation
 
