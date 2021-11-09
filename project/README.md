@@ -27,7 +27,7 @@ You may choose one from the following projects:
     - Document collection: MS MARCO document corpus (3.2M documents, 22GB)
     - Resources
       - [Task GitHub repo](https://github.com/microsoft/MSMARCO-Document-Ranking)
-      - [Relevance judgments for evaluation topics](https://trec.nist.gov/data/deep2019.html)
+      - [Relevance judgments for evaluation topics](https://trec.nist.gov/data/deep/2019qrels-docs.txt)
       - [TREC 2019 Deep Learning track overview](https://arxiv.org/abs/2003.07820)
     - [Discussion group (on Canvas)](https://stavanger.instructure.com/courses/8838/discussion_topics/120134)
   * **[TREC 2020 Conversational Assistance](http://www.treccast.ai/)**
@@ -36,7 +36,7 @@ You may choose one from the following projects:
     - Resources
       - [Task GitHub repo](https://github.com/daltonj/treccastweb/tree/master/2020)
       - [TREC 2020 Conversational Assistance track overview](https://trec.nist.gov/pubs/trec29/papers/OVERVIEW.C.pdf)
-      - [TREC 2020 Conversational Assistance judgments for evaluation topics](https://trec.nist.gov/data/cast2020.html)
+      - [TREC 2020 Conversational Assistance judgments for evaluation topics](https://trec.nist.gov/data/cast/2020qrels.txt)
     - [Discussion group (on Canvas)](https://stavanger.instructure.com/courses/8838/discussion_topics/120142)
   * **[Semantic Answer Type Prediction 2020](https://smart-task.github.io/2020/)**
     - Given a question in natural language, the task is to predict type of the answer using a set of candidates from a target ontology (DBpedia).
