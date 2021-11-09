@@ -27,7 +27,7 @@ You may choose one from the following projects:
     - Document collection: MS MARCO document corpus (3.2M documents, 22GB)
     - Resources
       - [Task GitHub repo](https://github.com/microsoft/MSMARCO-Document-Ranking)
-      - [Relevance judgments for evaluation topics](https://trec.nist.gov/data/cast/2019qrels.txt)
+      - [Relevance judgments for evaluation topics](https://trec.nist.gov/data/deep2019.html)
       - [TREC 2019 Deep Learning track overview](https://arxiv.org/abs/2003.07820)
     - [Discussion group (on Canvas)](https://stavanger.instructure.com/courses/8838/discussion_topics/120134)
   * **[TREC 2020 Conversational Assistance](http://www.treccast.ai/)**
