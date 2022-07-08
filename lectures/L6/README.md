@@ -10,15 +10,15 @@ This module is the first of a series on entity-oriented search.  It introduces t
 
 | **Module** | **Topic** | **Lecture material** | 
 | -- | -- | -- | 
-| L6-1 | Entities and data sources | Read: Balog: Chapters 1 and 2, slides |
-| L6-2 | Entity ranking | Read: Balog: Chapters 3 and 4, slides |
+| L6-1 | Entities and data sources | Read: Balog: Chapters 1 and 2, [slides]() |
+| L6-2 | Entity ranking | Read: Balog: Chapters 3 and 4, [slides]() |
 
 ## Reading
 
   * Entity-Oriented Search (Balog)
-    - Chapter 1 (except 1.2)
+    - Chapter 1, except 1.2
     - Chapter 2
-    - Chapter 3 (until 3.3.2 (inclusive))
+    - Chapter 3, until 3.3.2 (inclusive)
     - Chapter 4: Sections 4.1 and 4.2.2
   
 ## Summary
